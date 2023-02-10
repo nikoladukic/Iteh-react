@@ -13,7 +13,7 @@ function App() {
   const [products] = useState([
     {
       id: 1,
-      image:"https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      image:"https://www.nselection.rs/UserFiles/products/big/01/29/muske-patike-fila-disruptor-low-1010262-1FG-3.png",
       title: "Patike",
       description:
         "Ovo je jedan od najnovijih modela patika u prodaji. Mogu da se nose u razlicitim prilikama.",
@@ -25,13 +25,13 @@ function App() {
       image:"https://images.unsplash.com/photo-1591534577302-1696205bb2bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       title: "Ranac",
       description:
-        "Ovaj ranac je namenjen osobama i muskog i sensog pola. Moze se nositi u razlicitim prilikama.",
+        "Ovaj ranac je namenjen osobama i muskog i zenskog pola. Moze se nositi u razlicitim prilikama.",
       price: 70,
       amount: 0,
     },
     {
       id: 3,
-      image:"https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=772&q=80",
+      image:"https://img.ep-cdn.com/i/500/500/er/erdfurhfzoadzgzckqsx/nike-m-nsw-club-hoodie-po-bb-gx-muski-duks-bela-bv2973-cene.jpg",
       title: "Duks",
       description:
         "Ovaj beli duks je izuzetno udoban i nosiv i dovoljno topao. ",
@@ -40,10 +40,10 @@ function App() {
     },
     {
       id: 4,
-      image:"https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      image:"https://konstantin.rs/storage/media/muske-pantalone-classic-4446-s.jpeg",
       title: "Pantalone",
       description:
-        "Ovo su moderne pantalone sa izvezenim ukrasima za potpuno opusten izgled.",
+        "Ovo su moderne pantalone koje se dobro kombinuju sa kaisem i cipelama sa slike.",
       price: 90,
       amount: 0,
     },
@@ -67,19 +67,19 @@ function App() {
     },
     {
       id: 7,
-      image:"https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=434&q=80",
-      title: "Haljina",
+      image:"https://www.svezakucu.rs/pics/items/portal/big/72646.jpg",
+      title: "Kais",
       description:
-        "Lepa haljina za svaku priliku za sve dame.",
+        "Lep muski kaus za svaku priliku.",
       price: 110,
       amount: 0,
     },
     {
       id: 8,
-      image:"https://images.unsplash.com/photo-1623832101940-647285e32a58?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2NhcmZ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-      title: "Sal",
+      image:"https://c.cdnmp.net/396466939/p/l/1/kozne-muske-cipele-gazela-886-01-crne~49021.jpg",
+      title: "Cipele",
       description:
-        "Mekan i topao za prijatnije zimske dane.",
+        "Muske cipele za sve prilike.",
       price: 20,
       amount: 0,
     },
